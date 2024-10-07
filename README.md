@@ -1,2 +1,2 @@
 # UerjBeamer
-Latex Beamer Official Uerj Templete
+Latex Beamer Official Uerj Theme
